@@ -1,1 +1,1 @@
-A lightweight tool for generating custom graphs (directed/undirected, weighted/unweighted).
+A Python tool that generates random graphs (connected/unconnected weighted/unweighted and directed/undirected). Includes visualization using NetworkX/Matplotlib for easy graph analysis and algorithm testing.
